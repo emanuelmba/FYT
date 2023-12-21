@@ -6,6 +6,7 @@ main {
 input {
   width: 98%;
   max-width: 1113px;
+  margin-bottom: 12px;
 }
 
 iframe {
